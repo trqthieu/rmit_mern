@@ -1,0 +1,19 @@
+/* src/App.css */
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input,
+select,
+button {
+  padding: 8px;
+  font-size: 1rem;
+}
+
+div > div {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
