@@ -17,7 +17,7 @@ Before starting the application, ensure you have the following installed:
   PORT=5000
   MONGO_URI=<your-mongodb-connection-string>
 
-4.
+4. Start server
   bash
   node server.js
 
@@ -30,6 +30,6 @@ Before starting the application, ensure you have the following installed:
 2. Install Required Libraries
   npm install
 
-3.
+3. Start client
   bash
   npm start
